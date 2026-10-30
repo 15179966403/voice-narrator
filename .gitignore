@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Edge-TTS audio cache
+.cache/
+*.part
+
+# Output media binaries (keep folder structure and sample timeline json files)
+output/*.wav
+output/*.mp3
+!output/.gitkeep
+!output/*.json
+
+# IDE / OS generated files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

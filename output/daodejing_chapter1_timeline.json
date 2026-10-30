@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-4%",
+    "sample_rate": 24000,
+    "total_duration_sec": 20.905,
+    "target_lufs": -14.0,
+    "measured_lufs": -14.0,
+    "segments_count": 8,
+    "generated_at": "2026-10-30 16:00:36"
+  },
+  "timeline": [
+    {
+      "index": 1,
+      "id": "L1",
+      "text": "道可道，非常道；",
+      "start_time": 0.0,
+      "end_time": 1.688,
+      "duration": 1.688
+    },
+    {
+      "index": 2,
+      "id": "L2",
+      "text": "名可名，非常名。",
+      "start_time": 2.338,
+      "end_time": 4.155,
+      "duration": 1.817
+    },
+    {
+      "index": 3,
+      "id": "L3",
+      "text": "无名，天地之始；",
+      "start_time": 4.805,
+      "end_time": 6.57,
+      "duration": 1.765
+    },
+    {
+      "index": 4,
+      "id": "L4",
+      "text": "有名，万物之母。",
+      "start_time": 7.22,
+      "end_time": 8.835,
+      "duration": 1.615
+    },
+    {
+      "index": 5,
+      "id": "L5",
+      "text": "故常无欲，以观其妙；",
+      "start_time": 9.485,
+      "end_time": 11.544,
+      "duration": 2.059
+    },
+    {
+      "index": 6,
+      "id": "L6",
+      "text": "常有欲，以观其徼。",
+      "start_time": 12.194,
+      "end_time": 14.12,
+      "duration": 1.926
+    },
+    {
+      "index": 7,
+      "id": "L7",
+      "text": "此两者，同出而异名，同谓之玄。",
+      "start_time": 14.77,
+      "end_time": 17.982,
+      "duration": 3.211
+    },
+    {
+      "index": 8,
+      "id": "L8",
+      "text": "玄之又玄，众妙之门。",
+      "start_time": 18.632,
+      "end_time": 20.905,
+      "duration": 2.274
+    }
+  ]
+}

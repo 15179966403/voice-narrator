@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+0%",
+    "sample_rate": 24000,
+    "total_duration_sec": 5.587,
+    "target_lufs": -14.0,
+    "measured_lufs": -15.01,
+    "segments_count": 2,
+    "generated_at": "2026-10-30 15:57:49"
+  },
+  "timeline": [
+    {
+      "index": 1,
+      "id": "L1",
+      "text": "天行健，君子以自强不息。",
+      "start_time": 0.0,
+      "end_time": 2.57,
+      "duration": 2.57
+    },
+    {
+      "index": 2,
+      "id": "L2",
+      "text": "地势坤，君子以厚德载物。",
+      "start_time": 3.07,
+      "end_time": 5.587,
+      "duration": 2.517
+    }
+  ]
+}
